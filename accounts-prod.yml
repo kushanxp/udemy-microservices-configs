@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related Prod webhook ext APIs "
+  message: "Welcome to EazyBank accounts related Production webhook ext APIs "
   contactDetails:
     name: "John Doe - Prod"
     email: "{cipher}5fa3df1940ae8a5450cb1ea49c1e351a819ec3e8601082d1c9383ca197c00bac5431d9b34c34c88eada9eeb4a2272be1"
