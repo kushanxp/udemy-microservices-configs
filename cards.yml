@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Welcome to EazyBank cards related default local APIs "
+  message: "Welcome to EazyBank cards related default webhook local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
